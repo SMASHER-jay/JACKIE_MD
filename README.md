@@ -17,3 +17,6 @@
 
 ## PROGRESS TO DEPLOY JACKIE MD FIRST FORK MY REPO
 <a href="https://github.com/jtechde/james/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=red&style=for-the-badge&logo=tesla" width="297" height="40.45"/></a></p>
+
+## GET SESSION ID HERE
+<a href="https://james-xtech-session-generator.onrender.com"><img title="GET-SESSION ID HERE" src="https://img.shields.io/badge/GET-SESSION ID HERE-h?color=green&style=for-the-badge&logo=nike" width="230" height="38.45"/></a></p>
